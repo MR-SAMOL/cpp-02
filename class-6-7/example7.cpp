@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+    system("cls");
     float s,r,pi;
     pi = 3.14;
     cout<<"Enter R :";cin>>r;
