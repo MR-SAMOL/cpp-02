@@ -1,5 +1,8 @@
 #include<iostream>
 using namespace std;
+
+//      លំហាត់អនុវត្តន៍ទី​ ១ មេរៀនទី១​ c++ programming
+
 int main(){
     int id;
     string name,gender,address;
